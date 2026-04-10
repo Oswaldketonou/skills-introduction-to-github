@@ -1,3 +1,4 @@
+{% include analytics.html %}
 # Hi, I'm Waldo Ketonou  
 ### Business & Data Analyst | SQL • Python • R • Tableau | Turning Operations Into Insights
 
@@ -8,7 +9,7 @@ I bring a hybrid skillset that blends:
 - **Business operations expertise** (KPIs, forecasting, budgeting, process optimization)
 - **Data storytelling** for non‑technical stakeholders
 
-I’m currently building a portfolio of dashboards and case studies through **WaldoSphere Group LLC**, where I help small businesses uncover insights that improve efficiency, profitability, and decision‑making.
+I’m currently building a portfolio of dashboards and case studies through **WaldoSphere Group**, where I help small businesses uncover insights that improve efficiency, profitability, and decision‑making.
 
 ---
 
@@ -21,12 +22,6 @@ I’m currently building a portfolio of dashboards and case studies through **Wa
 
 ---
 
-## 📊 Featured Projects
-
-### **Lettuce Growth Optimization (R + ggplot2 + tidyverse)**
-Analysis of environmental factors affecting lettuce growth, including EDA, visualization, and actionable recommendations.  
-**Repo:** *link to your repo here*  
-**Case Study:** *link to GitHub Pages once we build it*
 
 ---
 
